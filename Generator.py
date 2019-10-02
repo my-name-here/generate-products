@@ -7,7 +7,7 @@ import random
 # ^^ you will not beleive it isn't organic!
 
 nouns = ['blood','knives','gluten', 'feet', 'dairy', 'BBQ sauce', 'friendships', 'your hopes and dreams']
-verbs = ['kill', 'burn', 'improve', 'create', 'ruin', 'fix', 'bite', 'eat','fear']
+verbs = ['kill', 'energize', 'improve', 'create', 'dissolve', 'ruin', 'fix', 'bite', 'eat','fear']
 firstnames = ['Abraham', 'Donald', 'Hillary', 'George', 'Taylor']
 lastnames = ['Einstein', 'Tesla', 'Gates', 'Bezos']
 
